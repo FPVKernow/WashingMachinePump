@@ -22,3 +22,6 @@ It's been working happily ever since! The missle switch is used for off-on (auto
 - 12V eBay bildge punp
 - XLR plug/socket
 - suitably sized ABS waterproof box
+
+<img width="4284" height="5712" alt="IMG_6963" src="https://github.com/user-attachments/assets/a0a253bc-0d0a-49a1-8cba-53ffbbcfd256" />
+
